@@ -1,2 +1,3 @@
 # useFetch
-hook for GET, POST, DELETE on react
+
+ A Custom Hook for make Http requests
