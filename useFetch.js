@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useContext } from "react"
-import AuthContext from "../context/AuthContext"
 
 const useFetch = (url, met) => {
     let { authTokens } = useContext(AuthContext)
